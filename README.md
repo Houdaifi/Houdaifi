@@ -5,7 +5,7 @@ I'm a **Full Stack Developer**. A *Tech Enthusiast* passionate about learning an
 
 ### A few quick facts
 
-- 🔭 &nbsp; I’m currently working with Nodejs, Laravel, React, Vue, Mongodb, MySQL etc.
+- 🔭 &nbsp; I’m currently working with .NET, C#, VB.NET, PHP, JQuery, Vue, SQL, MySQL Server etc.
 - 🌱 &nbsp; I’m currently interested on sharpen my skills and learn new technologies.
 - 💬 &nbsp; Ask me about anything, I am happy to help.
 - 📫 &nbsp; Email me at [houdaifaamzil@gmail.com](mailto:houdaifaamzil@gmail.com).
